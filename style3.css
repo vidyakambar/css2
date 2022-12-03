@@ -1,0 +1,261 @@
+body{
+
+	border-style:groove;
+	border-width: 7px;
+	border-color:greenyellow;
+	margin-right: 2px;
+}
+header{
+	padding:1px;
+	margin: 0px;
+	
+	background-image: url(./img4.jpg);
+	background-size: cover;
+	height: 250vh;
+	width: 100%;
+	background-position:center;
+	
+
+}
+
+
+.welcome{
+
+	margin-top:30px;
+    margin-bottom: 80px;
+    margin-left:60px;
+    border-style:solid;
+    border-color:red;
+    border-width:5px;
+    width: 300px;
+    padding: 30px;
+    background-color: black;
+    border-radius:30px;
+    color: white;
+    font-style:italic;
+}
+.Home{
+	margin-top:30px;
+	margin-bottom: 300px;
+	margin-left:280px;
+    border-style:solid;
+    border-color:red;
+    border-width:5px;
+    width: 350px;
+    padding: 30px;
+    background-color: black;
+    border-radius:30px;
+    color: white;
+    font-style:italic;
+    position:absolute;
+    left: 10px;
+
+}
+h2{
+	margin-left:1100px;
+
+	border-style:solid;
+	width: 260px;
+	border-color: red;
+	padding: 30px;
+	border-radius:30px ;
+	background-color: black;
+	border-width: 5px;
+	color: white;
+	font-style: italic;
+	position:absolute;
+	
+
+}
+.red{
+	color: red;
+}
+.dash{
+	top:250px;
+     left: 700px;
+     bottom: 90px;
+     right: 100px;
+	border-style: dashed;
+	border-width:5px;
+	height: 600px;
+	width: 400px;
+	border-color: red;
+	text-align: center;
+	font-weight: 40px;
+	margin-left: 40px;
+	position:absolute;
+}
+.hii{
+      
+	width: 300PX;
+	height: 300PX;
+	border-style:solid ;
+	border-color:gray;
+	border-width: 5px;
+	border-radius: 50%;
+	position:absolute;
+	text-align: center;
+	background-color:lightseagreen;
+	top:400px;
+	left: 250px;
+	bottom:90px;
+}
+.horizon{
+	margin-left:0px;
+    width:270px;
+    position: absolute;
+    left:12px;
+}
+.horizon1{
+	margin-left:0px;
+	width:290px;
+	margin-right: 50px;
+	position: absolute;
+	left:8px;
+	right: 40px;
+}
+	
+
+h3{
+
+	margin: 40px;
+	padding: 5px;
+	font-style: italic;
+	text-decoration: underline;
+	
+}
+
+.menu{
+	text-align: center;
+    border-style:solid;
+	width: 300px;
+	border-color: red;
+	padding: 30px;
+	border-radius:30px ;
+	background-color: black;
+	border-width: 5px;
+	color: white;
+	font-style: italic;
+	position:absolute;
+	top: 900px;
+	left:500px ;
+	text-decoration: none;
+
+}
+.hr{
+
+	position: relative;
+	bottom: 600px;
+	top: 1030px;
+	color: red;
+}
+
+.starter{
+	padding: 5px;
+	margin: 5px;
+	border-radius:20px;
+
+	width: 310px;
+	height: 250px;
+	border-style:solid;
+	border-width: 3px;
+	border-color: black;
+	color:darkblue;
+	background-color:cyan;
+	
+	margin-left: 100px;
+	position:absolute;
+	top: 1107px;
+	text-align: center;
+}
+.Southin{
+	border-style: solid;
+	border-color: black;
+	border-width: 3px;
+	border-radius: 20px;
+	width: 325px;
+	height:260px;
+	top: 1110px;
+	position: absolute;
+	margin-left: 550px;
+	text-align: center;
+	color:darkblue;
+	background-color:cyan;
+}
+.kitchen{
+	
+	border-style: solid;
+	border-color: black;
+	border-width: 3px;
+	width: 320px;
+	height: 260px;
+	top: 1110px;
+	position: absolute;
+	margin-left: 1000px;
+	border-radius: 20px;
+	text-align: center;
+	color:darkblue;
+	background-color:cyan;
+
+}
+.Rice{
+
+     border-style: solid;
+     border-color: black;
+     border-width:3px ;
+     width: 320px;
+     height: 260px;
+     top: 1450px;
+     position: absolute;
+     margin-left: 100px;
+     border-radius: 20px;
+     text-align: center;
+     color:darkblue;
+	background-color:cyan;
+}
+.bread{
+
+
+	border-style: solid;
+	border-width: 3px;
+	border-color: black;
+	width: 330px;
+	height: 260px;
+	margin-left: 550px;
+	border-radius: 20px;
+	top: 1450px;
+	position: absolute;
+	text-align: center;
+	color:darkblue;
+	background-color:cyan;
+}
+
+.other{
+	border-style: solid;
+	border-color: black;
+	border-width: 3px;
+	width: 320px;
+	height: 290px;
+	top: 1450px;
+	position: absolute;
+	margin-left:1000px;
+	border-radius: 20px;
+	text-align: center;
+	color:darkblue;
+	background-color:cyan;
+
+
+
+}
+
+
+
+
+
+
+
+	
+	
+
+
+
